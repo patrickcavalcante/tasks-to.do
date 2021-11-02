@@ -20,7 +20,7 @@ Abra (http: // localhost: 8080) com seu navegador para ver o resultado.
 
 ## Informações e Screens
 
-Projeto de listagem de repositorios da rocketseat pela api do github
+Projeto de to do list (lista de atividades)
 
 <img src="./public/screen/01.png" title="imagem sem items">
 <img src="./public/screen/02.png" title="imagem com items">
